@@ -47,7 +47,7 @@ jobs:
           # Required mail subject:
           subject: Changes made to OpenSource3 Repo
           # Required recipients' addresses:
-          to: 177500u@gmail.com
+          to: aditya.dsai21@iitg.ac.in
           # Required sender full name (address can be skipped):
           from: brahma_mess # <user@example.com>
           # Optional whether this connection use TLS (default is true if server_port is 465)
